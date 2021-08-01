@@ -24,10 +24,13 @@ useEffect(()=>{
 ```
 
 **What does useEffect do ?**
+   
    By using this Hook, you tell React that your component needs to do something after render. React will remember the function you passed and call it later after performing the DOM updates. In this effect, we set the document title, we could also perform data fetching or call some other imperative API.
 
 **Why is useEffect called inside a Component ?**
+   
    placing use effect inside the component lets us access the state variable or any props right form the effect.
 
 **Does useEffect run after every Render ?**
-    Yes! By default, it runs both after the first render and after every update.
+    
+  Yes! By default, it runs both after the first render and after every update.
