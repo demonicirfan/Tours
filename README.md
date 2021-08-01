@@ -1,4 +1,5 @@
-<h1>UseEffect Hook ⚡</h1>
+<h1><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif?raw=true" width="30" height="30"
+/> UseEffect Hook </h1>
  
   UseEffect is a hook for encapsulating code that has 'side effects', if youre familiar with React class lifecycle methods, you can think of useEffect Hook sa componentDidMount, componentDidUpdate and conponentWillUnmount combinded.
 
